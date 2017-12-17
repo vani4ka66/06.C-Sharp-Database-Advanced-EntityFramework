@@ -12,7 +12,6 @@ namespace _01.ImportJSON
 {
     class ImportJson
     {
-
         static void Main()
         {
             ImportData();
